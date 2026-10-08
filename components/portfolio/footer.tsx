@@ -25,6 +25,7 @@ export function Footer() {
           <ExternalLink href={profile.linkedin}>LinkedIn</ExternalLink>
           <a href="#about">Back to top ↑</a>
         </div>
+        <a href="/pocket-fx-privacy.html">Pocket FX Privacy Policy</a>
       </footer>
     </>
   )
